@@ -1,0 +1,27 @@
+# DocsAlot
+
+> DocsAlot turns scattered help articles, API references and product notes into one source of truth: hosted docs for people, plus llms.txt, skill.md, clean markdown and a free hosted MCP server for agents.
+
+DocsAlot is documentation infrastructure for startups. One maintained source publishes hosted docs for people and the surfaces agents look for: llms.txt, skill.md, clean markdown, stable anchors and a hosted MCP server at mcp.docsalot.dev/yourco with search_docs, get_page and run_example.
+
+## Homepage
+- [Homepage as markdown](/index.md): the full homepage, generated from the same source as the designed page
+- [A rate limit changes. Watch who finds out.](/#story): Acme ships a new rate limit. The docs don't know yet. An agent answers first. You ask DocsAlot to fix it. Every reader gets the new version.
+- [Three steps. From scattered to agent-ready.](/#how): Connect your docs stack. Package it for agents. Publish and keep current.
+- [One source. Every surface people and agents look for.](/#surfaces): Hosted docs, API reference, llms.txt, skill.md, Hosted MCP, AI visibility audit
+- [Three teams. One source of truth.](/#stories): Founder: Docs shipped before launch day. API company: OpenAPI in. Answers out. Support team: The same ticket, answered once.
+- [Install the CLI. Then just ask your agent.](/#setup): Follow the guided onboarding, or give your coding agent the DocsAlot skill and let it write your first docs straight from the repo.
+- [Before an agent reads your docs, check the benchmark.](/#benchmark): A public benchmark that tests whether an agent can find the right page, fetch clean text, follow the instructions and recover when docs get fuzzy. Informed by the open AFDocs spec.
+- [Simple pricing for docs that maintain themselves.](/#pricing): Every plan includes hosted docs, llms.txt, skill.md and AI-ready publishing. No per-seat charge for collaborators.
+- [Questions technical buyers ask first.](/#faq): What is llms.txt and why do I need it? What's different about DocsAlot's MCP server? Do you support migration from Intercom, Zendesk or Notion? Is this just a CMS? Can I host on my own domain? What does the free AI visibility audit include?
+
+## Product
+- [Try DocsAlot](https://docsalot.dev/editor): start in the editor
+- [Docs benchmark](https://docsalot.dev/benchmarks/docs): public benchmark of how agent-readable docs are, informed by AFDocs
+- [Free hosted MCP server](https://docsalot.dev/features/hosted-mcp-for-documentation): search_docs, get_page and run_example over your docs
+- [CLI docs](https://docsalot-docs.docsalot.dev/cli/install-and-auth): install docsalot-cli and the DocsAlot skill
+- [Pricing](https://docsalot.dev/pricing): Startup $39/month, Team $99/month, Enterprise custom, no per-seat charge
+
+## Optional
+- [Book a demo](https://cal.com/faizan-khan-18shuq/30min): 30 minutes with the founder
+- [Blog](https://docsalot.dev/blog)
